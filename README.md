@@ -1,2 +1,2 @@
 # Machine_Learning
-Authotr - Kaif Ansari 
+Author - Kaif Ansari 
